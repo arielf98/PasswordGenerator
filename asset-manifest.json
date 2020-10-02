@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/PasswordGenerator/static/css/main.68f2ea1b.chunk.css",
-    "main.js": "/PasswordGenerator/static/js/main.e9b6a970.chunk.js",
-    "main.js.map": "/PasswordGenerator/static/js/main.e9b6a970.chunk.js.map",
-    "runtime-main.js": "/PasswordGenerator/static/js/runtime-main.c8abb1ca.js",
-    "runtime-main.js.map": "/PasswordGenerator/static/js/runtime-main.c8abb1ca.js.map",
-    "static/js/2.0ef4f1c4.chunk.js": "/PasswordGenerator/static/js/2.0ef4f1c4.chunk.js",
-    "static/js/2.0ef4f1c4.chunk.js.map": "/PasswordGenerator/static/js/2.0ef4f1c4.chunk.js.map",
-    "index.html": "/PasswordGenerator/index.html",
-    "precache-manifest.533a52a065d09f740ffab2e7ca5084d1.js": "/PasswordGenerator/precache-manifest.533a52a065d09f740ffab2e7ca5084d1.js",
-    "service-worker.js": "/PasswordGenerator/service-worker.js",
-    "static/css/main.68f2ea1b.chunk.css.map": "/PasswordGenerator/static/css/main.68f2ea1b.chunk.css.map",
-    "static/js/2.0ef4f1c4.chunk.js.LICENSE.txt": "/PasswordGenerator/static/js/2.0ef4f1c4.chunk.js.LICENSE.txt",
-    "static/media/key.svg": "/PasswordGenerator/static/media/key.f7a96c9b.svg"
+    "main.css": "/deploy-react/static/css/main.68f2ea1b.chunk.css",
+    "main.js": "/deploy-react/static/js/main.ed55c224.chunk.js",
+    "main.js.map": "/deploy-react/static/js/main.ed55c224.chunk.js.map",
+    "runtime-main.js": "/deploy-react/static/js/runtime-main.82ce2ce9.js",
+    "runtime-main.js.map": "/deploy-react/static/js/runtime-main.82ce2ce9.js.map",
+    "static/js/2.0ef4f1c4.chunk.js": "/deploy-react/static/js/2.0ef4f1c4.chunk.js",
+    "static/js/2.0ef4f1c4.chunk.js.map": "/deploy-react/static/js/2.0ef4f1c4.chunk.js.map",
+    "index.html": "/deploy-react/index.html",
+    "precache-manifest.ce34047cedccdb01053957a28c961106.js": "/deploy-react/precache-manifest.ce34047cedccdb01053957a28c961106.js",
+    "service-worker.js": "/deploy-react/service-worker.js",
+    "static/css/main.68f2ea1b.chunk.css.map": "/deploy-react/static/css/main.68f2ea1b.chunk.css.map",
+    "static/js/2.0ef4f1c4.chunk.js.LICENSE.txt": "/deploy-react/static/js/2.0ef4f1c4.chunk.js.LICENSE.txt",
+    "static/media/key.svg": "/deploy-react/static/media/key.f7a96c9b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8abb1ca.js",
+    "static/js/runtime-main.82ce2ce9.js",
     "static/js/2.0ef4f1c4.chunk.js",
     "static/css/main.68f2ea1b.chunk.css",
-    "static/js/main.e9b6a970.chunk.js"
+    "static/js/main.ed55c224.chunk.js"
   ]
 }
